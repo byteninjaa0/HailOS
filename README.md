@@ -27,7 +27,7 @@ This is a custom OS project designed to explore system-level programming and bui
 2. **Build and run**:
 
     ```bash
-    make && qemu-system-x86_64 -kernel kernel.bin
+    qemu-system-x86_64 -kernel myos.bin
     ```
 
 ### Contribute
